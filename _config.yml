@@ -1,0 +1,8 @@
+title: Awesome-machine-learning
+description: A curated list of awesome Machine Learning frameworks, libraries and software.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
